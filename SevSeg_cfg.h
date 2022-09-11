@@ -5,6 +5,6 @@
  *  Version : V1
  *  Describtion : --------------
  */
-// COM_KA OR COM_ANA
 
-#define SEG_TYPE  COM_KA 
+#define SEG_TYPE COM_KA // to define TYPE of SEVEN SEGMENT
+#define SEG_PORT PORTA // to define SEVEN SEGMENT PORT
